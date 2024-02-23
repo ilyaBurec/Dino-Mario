@@ -14,11 +14,13 @@ buy upgrades to upgrade your game experience you have never seen before
 NOTICE: if you do not have a working internet connect exclusive features like shop will not work as it uses servers to econome projects size And you will get Trex mode which will make mario powerfull and smash those
 spikys no internet only!
 
+This is a fangame all credits for content characters goes to nintendo!
+
 Download Project file :https://github.com/ilyaBurec/Dino-Mario/releases/download/um/Dino.Mario1.sb3
 Download htmml file that works for android:https://github.com/ilyaBurec/Dino-Mario/releases/download/um/Dino.Mario.html
 
 please do not do this for copying purproses any action will happen if you try to distribute or sell this game to somebody
-IF YOU FOUND THIS GAME PAID THIS IS A ILLEGIMATE SCAM FANGAMES CANNOT BE SOLD AS OF RIGHT OF NINTENDO
+IF YOU FOUND THIS GAME PAID THIS IS A ILLEGIMATE SCAM FANGAMES CANNOT BE SOLD AS OF RIGHTS OF NINTENDO
 
 
 
