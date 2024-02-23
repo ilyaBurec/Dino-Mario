@@ -13,4 +13,7 @@ buy upgrades to upgrade your game experience and you have never seen before
 </div>
 NOTICE: if you do not have a working internet connect exclusive features like shop will not work as it uses servers to econome projects size And you will get Trex mode which will make mario powerfull and smash those
 spikys no internet only!
+<div align="right">
 <p><button class="download">Click me!</button></p>
+  <br>
+  </div>
